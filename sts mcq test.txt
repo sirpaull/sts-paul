@@ -1,0 +1,44 @@
+Which command shows the current user?
+
+B. whoami
+
+
+2. What command is used to display the manual page for a command?
+
+G. man
+
+3. What does the 'chmod' command modify?
+
+J. File permissions
+
+4. What will show you all the subdirectories and contents of the current directory?
+	b) ls
+
+5. Executing “pwd” in shell will return:
+	d) Current directory
+
+6. Consider using the command “cd /a/b/c”, then executing “cd ..”. What does this last
+command do?
+a	 d) changes to /a/b directory
+
+7. Which command adds changes to the staging area in Git?
+a) git add
+
+8. What does the .git directory store?
+
+d) Repository metadata and version history
+ 
+ 
+9. What does the HEAD in Git represent?
+
+c) The currently checked-out commit
+
+
+10. What does the linux command cp file1 file2 do
+a) Copy file1 to file2
+
+
+11.What does the Linux command ls do
+
+d) list the content of a directory
+
